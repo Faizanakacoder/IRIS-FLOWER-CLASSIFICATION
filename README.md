@@ -82,15 +82,17 @@ Batch: January 2026
 
 Internship ID: CS11NY482650
 
-GitHub:  https://github.com/Faizanakacoder []
+GitHub:  https://github.com/Faizanakacoder
 
 * **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/0faizanshah0)
 
 <div align="center">
 
-🌟 Support My Journey!
-If this project helped you understand classification, please drop a Star!
+## 🌟 Support My Journey!
+If this project helped you understand classification, please drop a **Star**! 
 
-Happy Coding! 🚀
+[![](https://img.shields.io/badge/Star-This%20Repo-gold?style=for-the-badge&logo=github)](https://github.com/Faizanakacoder/IRIS-FLOWER-CLASSIFICATION/stargazers)
 
-</div>
+---
+### 🚀 Let's Grow Together.
+**Happy Coding!** *Faizan Firoz Shah* </div>
