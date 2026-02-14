@@ -82,9 +82,9 @@ Batch: January 2026
 
 Internship ID: CS11NY482650
 
-GitHub: Faizanakacoder
+GitHub:  https://github.com/Faizanakacoder []
 
-LinkedIn: My LinkedIn Profile
+* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/0faizanshah0)
 
 <div align="center">
 
